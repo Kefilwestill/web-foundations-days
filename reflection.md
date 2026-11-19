@@ -1,0 +1,7 @@
+# Course Reflection
+
+One of the most difficult concepts in this course was system design and scaling calculations. At first, it was challenging to estimate traffic, storage requirements and system capacity because I was used to building small applications rather than planning large systems. I overcame this by practising daily exercises, breaking down calculations into smaller steps and learning how each component in a distributed system works together.
+
+Based on feedback received on my capstone project, I would improve the architecture design by providing more detailed explanations of the data flow between services and adding clearer justifications for technology choices. I would also improve the user experience by refining error handling and making the interface more responsive on different screen sizes.
+
+Next, I would like to learn more about cloud architecture, databases at scale and modern backend development. In particular, I want to deepen my understanding of Microsoft Azure services, API development and system monitoring because these skills are important for building reliable production systems and align with my goal of developing a career in software engineering and cloud technologies.
